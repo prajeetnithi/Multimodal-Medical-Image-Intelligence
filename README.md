@@ -247,6 +247,6 @@ The project combines a clinician-facing web interface, a FastAPI backend, local 
 
 Developed by 3rd-year B.Tech AI & ML students at **Karunya Institute of Technology and Sciences**:
 
-- **[Your Name](https://github.com/prajeetnithi)**
+- **[Prajeet Nithi](https://github.com/prajeetnithi)**
 - **[Dharshan B](https://github.com/DharshanB-7)**
-- **[Teammate Name](https://github.com/preetishnithi)**
+- **[Preetish Nithi](https://github.com/preetishnithi)**
