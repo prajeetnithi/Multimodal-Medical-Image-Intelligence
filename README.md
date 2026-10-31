@@ -240,3 +240,13 @@ Specialized detection and segmentation models, calibrated confidence, DICOM and 
 ## 18. Summary
 
 The project combines a clinician-facing web interface, a FastAPI backend, local Ollama inference and MedGemma 1.5 4B into one workflow: medical image plus clinical context, validated evidence and localization, confidence filtering, and a visual review for the clinician. It supports review. It does not diagnose.
+
+---
+
+## 19. Team & Contributors
+
+Developed by 3rd-year B.Tech AI & ML students at **Karunya Institute of Technology and Sciences**:
+
+- **[Your Name](https://github.com/prajeetnithi)**
+- **[Dharshan B](https://github.com/DharshanB-7)**
+- **[Teammate Name](https://github.com/preetishnithi)**
